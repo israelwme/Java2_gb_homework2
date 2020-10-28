@@ -65,6 +65,8 @@ public class Main {
                 System.out.print(array[i][j] + "\t");
             }
             System.out.println();
+
+
         }
     }
 }
